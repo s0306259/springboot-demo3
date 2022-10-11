@@ -1,4 +1,4 @@
-package com.edu.murray.controller.com.edu.murray;
+package com.edu.murray;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

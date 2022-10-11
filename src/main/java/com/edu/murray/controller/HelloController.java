@@ -1,9 +1,8 @@
-package com.edu.murray.controller.com.edu.murray.com.edu.murray.controller;
+package com.edu.murray.controller;
 
 
-import com.edu.murray.controller.com.edu.murray.MySqlDataSource;
+import com.edu.murray.MySqlDataSource;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.beans.factory.annotation.Value;
 import org.springframework.core.env.Environment;
 import org.springframework.web.bind.annotation.*;
 

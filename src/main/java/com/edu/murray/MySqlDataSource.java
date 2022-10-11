@@ -1,4 +1,4 @@
-package com.edu.murray.controller.com.edu.murray;
+package com.edu.murray;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.stereotype.Component;
