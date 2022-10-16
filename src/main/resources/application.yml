@@ -9,7 +9,7 @@ temp: ${basedir}/temps
 work: ${basedir}/works
 spring:
   datasource:
-    driver-class-name: com.mysql.jc.jdbc.Driver
+    driver-class-name: com.mysql.jdbc.Driver
     url: jdbc:mysql://localhost:3306/customer
     user: root
     password: Ny@160622
